@@ -6,19 +6,18 @@
 
 **Language(s):** Shell, Docker, YAML
 
-## ✅ Use Cases
+## Use Cases
 - Deploy secure WireGuard VPN instances via ECS.
 - Run containerized VPN server in the cloud.
 - Auto-config updates via GitHub Actions.
 
-## 🔍 Example
+## Example
 ```
 bash deploy_wireguard_vpn.sh
 ```
 
 ---
-
 **Maintainer:** Rudy Bustamante  
 **Email:** busrodol@amazon.com  
 **License:** CC BY-SA 3.0  
-**Last Updated:** 2025-06-18T10:56:00Z
+**Last Updated:** 2025-06-18T11:00:34Z
