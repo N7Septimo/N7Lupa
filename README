@@ -1,0 +1,24 @@
+# N7Lupa
+
+**Description:** WireGuard VPN deployment pipeline with ECS compatibility, GitHub CI/CD, and AWS integration.
+
+**Repository:** [https://github.com/N7Septimo/N7Lupa](https://github.com/N7Septimo/N7Lupa)
+
+**Language(s):** Shell, Docker, YAML
+
+## ✅ Use Cases
+- Deploy secure WireGuard VPN instances via ECS.
+- Run containerized VPN server in the cloud.
+- Auto-config updates via GitHub Actions.
+
+## 🔍 Example
+```
+bash deploy_wireguard_vpn.sh
+```
+
+---
+
+**Maintainer:** Rudy Bustamante  
+**Email:** busrodol@amazon.com  
+**License:** CC BY-SA 3.0  
+**Last Updated:** 2025-06-18T10:56:00Z
